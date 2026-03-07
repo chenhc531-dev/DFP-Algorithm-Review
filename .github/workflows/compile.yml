@@ -1,0 +1,23 @@
+name: Build LaTeX Document
+on: [push]
+
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5.0.1
+      
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: |
+           Origin_Dilemma_and_Development_of_the_DFP_Algorithm.tex
+      
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: compiled-pdf
+          path: |
+            *.pdf
+    
