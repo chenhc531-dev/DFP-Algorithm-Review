@@ -116,6 +116,18 @@ jobs:
           cspell:aws/aws.txt
           cspell:python/src/python/python.txt
           cspell:django/dict/django.txt
+          cspell:npm/dict/npm.txt
+          cspell:r/src/r.txt
+          cspell:public-licenses/src/generated/public-licenses.txt
+          cspell:companies/src/companies.txt
+          cspell:mnemonics/src/mnemonics.txt
+          cspell:golang/dict/go.txt
+          cspell:java/src/java.txt
+          cspell:rust/dict/rust.txt
+          cspell:shell/dict/shell-all-words.txt
+          cspell:k8s/dict/k8s.txt
+          cspell:fullstack/dict/fullstack.txt
+          cspell:java/src/java-terms.txt
 
   comment-push:
     name: Report (Push)

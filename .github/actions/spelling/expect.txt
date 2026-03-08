@@ -106,7 +106,6 @@ Tik
 titletoc
 trc
 TSW
-txs
 upa
 upb
 vhistory
@@ -126,7 +125,6 @@ xypic
 alglinenumber
 algorithmicensure
 algorithmicrequire
-algorithmicx
 algpseudocode
 algrenewcommand
 alph
@@ -139,7 +137,6 @@ appendixtocname
 Arglocmin
 argmax
 argmin
-Aspell
 baselinestretch
 bbgreekl
 bbm
@@ -156,11 +153,9 @@ clubpenalty
 coloneqq
 darkyellow
 defeq
-discretization
 displaywidowpenalty
 disth
 dutchcal
-eigendecomposition
 empheq
 enumitem
 eqlist
@@ -184,14 +179,12 @@ iid
 interdisplaylinepenalty
 interfootnotelinepenalty
 latexmk
-Longman
 makebox
 mathalfa
 mathbb
 mathbbm
 mathbbol
 mathcode
-mathit
 mathlcal
 mathpzc
 mathrel
@@ -227,13 +220,10 @@ pgfplotstable
 prbb
 prblm
 proofnamefont
-pseudoinverse
-pyspelling
 pzc
 relpenalty
 relsize
 REVIS
-rightline
 rsg
 scauchy
 scriptscriptstyle
@@ -251,7 +241,6 @@ stackexchange
 stackrel
 stf
 subsectionfont
-substack
 synctex
 theoremstyle
 tikzscale
@@ -273,7 +262,6 @@ xpatch
 xpatchcmd
 xspace
 xspaceaddexceptions
-PDFs
 DFP
 BFGS
 Abdullah
@@ -298,14 +286,12 @@ doi
 DQSY
 eprint
 eqref
-equiqez
 etoolbox
 getbib
 Guangxi
 Gonglin
 Guoyin
 GXKZ
-HongTruong
 Hongxia
 howpublished
 hypersetup
@@ -338,7 +324,6 @@ purp
 qquad
 broyden
 equipez
-Hongtruong
 linkcolor
 pretocmd
 refcheck
